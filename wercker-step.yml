@@ -1,5 +1,5 @@
 name: distelli-release-branch
-version: 1.0.1
+version: 1.0.2
 description: |
   If building on the master branch, triggers a release of $DISTELLI_APP
 
